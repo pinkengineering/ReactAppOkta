@@ -1,0 +1,5 @@
+{
+  "domain": "{domain}",
+  "clientId": "{clientId}",
+  "audience": "{apiAudience}"
+}

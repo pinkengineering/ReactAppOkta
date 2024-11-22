@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactAppOkta/static/css/main.e79340e1.css",
-    "main.js": "/ReactAppOkta/static/js/main.284ddf87.js",
+    "main.js": "/ReactAppOkta/static/js/main.47024de3.js",
     "static/media/logo.svg": "/ReactAppOkta/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "static/media/loading.svg": "/ReactAppOkta/static/media/loading.330b7d99bfbae8039a5456998d97914f.svg",
     "index.html": "/ReactAppOkta/index.html",
     "main.e79340e1.css.map": "/ReactAppOkta/static/css/main.e79340e1.css.map",
-    "main.284ddf87.js.map": "/ReactAppOkta/static/js/main.284ddf87.js.map"
+    "main.47024de3.js.map": "/ReactAppOkta/static/js/main.47024de3.js.map"
   },
   "entrypoints": [
     "static/css/main.e79340e1.css",
-    "static/js/main.284ddf87.js"
+    "static/js/main.47024de3.js"
   ]
 }

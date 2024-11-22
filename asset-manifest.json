@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e79340e1.css",
-    "main.js": "/static/js/main.6f068aab.js",
-    "static/media/logo.svg": "/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
-    "static/media/loading.svg": "/static/media/loading.330b7d99bfbae8039a5456998d97914f.svg",
-    "index.html": "/index.html",
-    "main.e79340e1.css.map": "/static/css/main.e79340e1.css.map",
-    "main.6f068aab.js.map": "/static/js/main.6f068aab.js.map"
+    "main.css": "/ReactAppOkta/static/css/main.e79340e1.css",
+    "main.js": "/ReactAppOkta/static/js/main.631aab29.js",
+    "static/media/logo.svg": "/ReactAppOkta/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "static/media/loading.svg": "/ReactAppOkta/static/media/loading.330b7d99bfbae8039a5456998d97914f.svg",
+    "index.html": "/ReactAppOkta/index.html",
+    "main.e79340e1.css.map": "/ReactAppOkta/static/css/main.e79340e1.css.map",
+    "main.631aab29.js.map": "/ReactAppOkta/static/js/main.631aab29.js.map"
   },
   "entrypoints": [
     "static/css/main.e79340e1.css",
-    "static/js/main.6f068aab.js"
+    "static/js/main.631aab29.js"
   ]
 }

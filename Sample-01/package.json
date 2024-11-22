@@ -2,6 +2,7 @@
   "name": "auth0-react-sample",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://pinkengineering.github.io/ReactAppOkta",
   "scripts": {
     "start": "npm-run-all --parallel spa api-server",
     "build": "react-scripts build",
@@ -13,7 +14,9 @@
     "api-server": "node api-server.js",
     "api-server:dev": "nodemon api-server.js",
     "dev": "npm-run-all --parallel spa api-server:dev",
-    "prod": "npm-run-all --parallel server api-server"
+    "prod": "npm-run-all --parallel server api-server",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@auth0/auth0-react": "^2.2.0",

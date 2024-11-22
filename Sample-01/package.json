@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "https://pinkengineering.github.io/ReactAppOkta",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "npm-run-all --parallel spa api-server",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -14,9 +16,7 @@
     "api-server": "node api-server.js",
     "api-server:dev": "nodemon api-server.js",
     "dev": "npm-run-all --parallel spa api-server:dev",
-    "prod": "npm-run-all --parallel server api-server",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "prod": "npm-run-all --parallel server api-server"
   },
   "dependencies": {
     "@auth0/auth0-react": "^2.2.0",
